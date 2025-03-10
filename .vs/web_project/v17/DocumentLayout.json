@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristi\\source\\repos\\web_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\repos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\repos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\mail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\mail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\editor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\editor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\wwwroot\\style.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:wwwroot\\style.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|c:\\users\\cristi\\source\\repos\\web_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1036FF50-DCA2-433A-B973-3D5F2FC068EF}|web_project.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\style.css",
+              "RelativeToolTip": "wwwroot\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-10T21:23:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\dashboard.html",
+              "RelativeDocumentMoniker": "wwwroot\\dashboard.html",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\dashboard.html",
+              "RelativeToolTip": "wwwroot\\dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T21:13:58.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\contact.html",
+              "RelativeDocumentMoniker": "wwwroot\\contact.html",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\contact.html",
+              "RelativeToolTip": "wwwroot\\contact.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T21:13:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "profile.html",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\profile.html",
+              "RelativeDocumentMoniker": "wwwroot\\profile.html",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\profile.html",
+              "RelativeToolTip": "wwwroot\\profile.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T21:11:42.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "editor.html",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\editor.html",
+              "RelativeDocumentMoniker": "wwwroot\\editor.html",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\editor.html",
+              "RelativeToolTip": "wwwroot\\editor.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T21:11:37.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T20:19:17.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:21:00.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mail.html",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\mail.html",
+              "RelativeDocumentMoniker": "wwwroot\\mail.html",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\mail.html",
+              "RelativeToolTip": "wwwroot\\mail.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T21:11:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "repos.html",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\repos.html",
+              "RelativeDocumentMoniker": "wwwroot\\repos.html",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\repos.html",
+              "RelativeToolTip": "wwwroot\\repos.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T21:08:52.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\script.js",
+              "RelativeToolTip": "wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-10T20:20:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "chat.html",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\chat.html",
+              "RelativeDocumentMoniker": "wwwroot\\chat.html",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\chat.html",
+              "RelativeToolTip": "wwwroot\\chat.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T21:14:07.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\wwwroot\\style.css",
+              "RelativeToolTip": "wwwroot\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-10T21:19:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cristi\\source\\repos\\web_project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cristi\\source\\repos\\web_project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T20:38:27.975Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
